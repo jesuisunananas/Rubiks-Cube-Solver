@@ -1,0 +1,6 @@
+#ifndef RUBIKSCUBEMODEL_H
+#define RUBIKSCUBEMODEL_H
+
+
+
+#endif
